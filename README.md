@@ -1,8 +1,9 @@
 # Template GitHub Repository for EpiPandit Lab
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
-
-Text summarizing your project.
+Summary of Session 5 Hummingbird data: 
+The code allows us to explore data on hummingbirds presenting to various rehabilitation centers, including understanding the structure, data types, and creating new data frames. By creating a working subset of the data, we were able to use functions from dplyr to generate summary tables and plot them using GGplot2. 
+Next we identified covariates and their relationship with hummingbird survival and explore individual covariates, plotting/tabulating individual covariates with the outcome and using the data frame to generate bar plots and use facet_grid function in GGPlot. We also calculated proportions of surviving birds grouped by rehabilitation facility and and plotted them using GGPlot. Finally, we analyzed hummingbird admission trends over time and plotted them using GGPlot.
 
 ## Project Organization
 ------------
